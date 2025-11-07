@@ -1,3 +1,4 @@
+//Program 1
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -18,3 +19,6 @@ printf("\n Conccatenated string : ");
 puts(firststring);
 getch();
 }
+
+
+//Program 2
